@@ -5,4 +5,4 @@ Object to int, int to object.
 
 Reasons for creation: I needed to store server pointers on the client.
 
-![my discord server](https://discord.gg/YBUGddBKT3)
+![Discord server](https://discord.gg/YBUGddBKT3)
