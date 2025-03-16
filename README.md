@@ -1,3 +1,4 @@
+For Unreal engine (tested 5.4)
 Converts pointers and back to int64
 
 Object to int, int to object.
